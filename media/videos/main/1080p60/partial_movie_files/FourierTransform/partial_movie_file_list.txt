@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/4088095949_1121617232_631829896.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/4088095949_2921448572_1666280314.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/656282500_731661152_106450292.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/1187890318_3328639458_829975815.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/1430969352_1455395830_1910386691.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/4253744218_2360120738_124049692.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/FourierTransform/4253744218_1831374817_2586747790.mp4'

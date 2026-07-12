@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/ProjectileMotion/2257293077_99462526_223132457.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/ProjectileMotion/2135761390_3707991596_3895250027.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/ProjectileMotion/2135761390_4055494548_3655812181.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/ProjectileMotion/2135761390_2322101975_1531466302.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/ProjectileMotion/2135761390_3901538672_1321104454.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/1080p60/partial_movie_files/ProjectileMotion/2135761390_2408024828_2441165736.mp4'

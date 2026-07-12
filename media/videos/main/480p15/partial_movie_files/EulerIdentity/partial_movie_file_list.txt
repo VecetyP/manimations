@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Thunn/manimations/media/videos/main/480p15/partial_movie_files/EulerIdentity/1584795214_12930042_2901758259.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/480p15/partial_movie_files/EulerIdentity/4072820271_815612724_1721445184.mp4'
+file 'file:C:/Users/Thunn/manimations/media/videos/main/480p15/partial_movie_files/EulerIdentity/4072820271_2408024828_762480163.mp4'
