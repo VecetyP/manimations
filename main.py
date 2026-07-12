@@ -1,6 +1,8 @@
 from manim import *
 import numpy as np
 
+# manim plauyground :)
+
 class demo(Scene):
     def construct(self):
         t = Text("Hello").shift(UP)
