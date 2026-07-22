@@ -1,4 +1,8 @@
 **This repository contains Manim scripts showcasing a variety of mathematical concepts, vector fields, and structural derivations:**
+
+<img width="2556" height="1438" alt="manimpic" src="https://github.com/user-attachments/assets/fd1e3ca7-638e-45b6-b0ef-5668354e6735" />
+
+
 - Euler's Identity Visualizations (EulerIdentityNoLatex, EulerIdentity)
 - Dynamic complex plane tracking that spins a vector $2\pi$ radians while updating active trigonometric projection lines ($\cos\theta$, $\sin\theta$) along the unit circle.
 - Fourier Transform Decomposition (FourierTransform) – A 3D camera fly-by tracking a complex wave that smoothly transforms and splits into 7 distinct, color-coded component sine waves along the $z$-axis.
